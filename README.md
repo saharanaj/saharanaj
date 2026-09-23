@@ -22,11 +22,11 @@ Cybersecurity and Security Operations professional currently pursuing a Master's
 
 ## Current Projects
 
-- Splunk SOC Lab
-- Security Monitoring and Detection Engineering
-- Microsoft Sentinel Lab
-- Python for Cybersecurity
-- SECURIVA Cybersecurity Platform
+## Current Projects
+
+- [Splunk SOC Detection Portfolio](https://github.com/saharanaj/splunk-soc-lab)
+- [SECURIVA Cybersecurity Platform](https://github.com/saharanaj/SECURIVA)
+- [Python Journey](https://github.com/saharanaj/Python-Journey)
 
 ## Certifications
 
